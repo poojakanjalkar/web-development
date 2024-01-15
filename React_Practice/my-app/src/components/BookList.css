@@ -1,0 +1,17 @@
+.book-name{
+  text-align: center;
+  
+}
+
+.book-list{
+  list-style: none;
+  margin: 2rem ;
+  padding: 1rem;
+
+}
+
+.book-list li {
+margin: 1 rem ;
+border:1px solid #ccc;
+padding: 1rem
+}
